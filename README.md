@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-dey&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-dey" /> </p>
 
-- 🌱 I’m currently learning **Node, Mongo, Express, DSA**
+- 🌱 I’m currently learning **Backend development and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ritika-dey?tab=repositories](https://github.com/Ritika-dey?tab=repositories)
 
