@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend development and DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ritika-dey?tab=repositories](https://github.com/Ritika-dey?tab=repositories)
+- 👨‍💻 All of my projects are available <a href="https://github.com/Ritika-dey?tab=repositories">Here</a>
 
 - 💬 Ask me about **react**
 
