@@ -12,6 +12,7 @@
 - 📫 How to reach me **ritika7890@gmail.com**
 
 - ⚡ Fun fact **I can make anyone laugh.**
+- Check my Portfolio <a href="http://ritika-dey.netlify.app/" alt="portfolio link" target="blank">Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
