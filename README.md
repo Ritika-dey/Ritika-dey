@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/Ritika-dey?tab=repositories">Here</a>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **ReactJS**
 
-- 📫 How to reach me **ritikadey7890@gmail.com**
-
-- ⚡ Fun fact **I can make anyone laugh.**
+- 📫 How to reach me **ritikadey7890@gmail.com** 
 - Check my Portfolio <a href="http://ritika-dey.netlify.app/" alt="portfolio link" target="blank">Here</a>
 
 <h3 align="left">Connect with me:</h3>
